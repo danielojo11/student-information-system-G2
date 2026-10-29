@@ -1,7 +1,7 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  padding: 0;
+/* Member B: Student Records Table */
+
+#records-section {
+    margin-top: 30px;
 }
 
 /* Member 3: Student records table styling */
@@ -91,5 +91,5 @@ body {
 
 #student-form button:hover {
     background-color: #1d4ed8;
-}
 
+}
